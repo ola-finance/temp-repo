@@ -3,7 +3,7 @@
     "id": "",
     "unitrollerAddress": "",
     "maximillionAddress": "",
-    "chainId": "1337",
+    "chainId": "31337",
     "distributionAssetParameters": {
       "symbol": "WFUSE",
       "name": "Wrapped Fuse",
@@ -50,7 +50,7 @@
         "symbol": "USDT",
         "name": "Tether",
         "address": "",
-        "decimals": 18,
+        "decimals": 6,
         "isNativeCoin": false
       }
     ],
